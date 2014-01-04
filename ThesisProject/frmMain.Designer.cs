@@ -1,5 +1,7 @@
 ﻿/***
  Author: Taiwo O. Adetiloye, 2012
+/***
+ Author: Taiwo O. Adetiloye, 2012
 *****/
 
 namespace ThesisProject

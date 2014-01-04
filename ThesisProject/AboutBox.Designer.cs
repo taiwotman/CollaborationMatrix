@@ -1,4 +1,7 @@
-﻿namespace ThesisProject
+﻿/***
+ Author: Taiwo O. Adetiloye, 2012
+*****/
+namespace ThesisProject
 {
     partial class AboutBox
     {
@@ -79,6 +82,7 @@
             // 
             // labelProductName
             // 
+            this.labelProductName.AllowDrop = true;
             this.labelProductName.Dock = System.Windows.Forms.DockStyle.Fill;
             this.labelProductName.Location = new System.Drawing.Point(143, 0);
             this.labelProductName.Margin = new System.Windows.Forms.Padding(6, 0, 3, 0);
@@ -88,6 +92,7 @@
             this.labelProductName.TabIndex = 19;
             this.labelProductName.Text = "Product Name";
             this.labelProductName.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.labelProductName.Click += new System.EventHandler(this.labelProductName_Click);
             // 
             // labelVersion
             // 

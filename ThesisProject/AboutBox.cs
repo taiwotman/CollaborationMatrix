@@ -1,4 +1,7 @@
-﻿using System;
+﻿/***
+ Author: Taiwo O. Adetiloye, 2012
+*****/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Drawing;
@@ -100,5 +103,10 @@ namespace ThesisProject
             }
         }
         #endregion
+
+        private void labelProductName_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
