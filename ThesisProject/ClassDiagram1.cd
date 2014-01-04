@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ThesisProject.CollaborationMatrix">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAYAE=</HashCode>
+      <FileName>CollaborationMatrix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ThesisProject.Entity">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAIAAAAAAAAAAQAAAAAAAACAAAAAAAAAAAgCAAAA=</HashCode>
+      <FileName>Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ThesisProject.TestCase">
+    <Position X="4.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAgAAAAAAAAACIAAAAAAAAAAAMAAAJA=</HashCode>
+      <FileName>TestCase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ThesisProject.Transaction">
+    <Position X="1.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAIAAgABAAAAAQAAAAAAAAAAAAAIAAABAAAAAAAAA=</HashCode>
+      <FileName>Transaction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ThesisProject.Weight">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAEAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Weight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
