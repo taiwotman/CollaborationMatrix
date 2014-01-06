@@ -1,4 +1,4 @@
 CollaborationMatrix
 ===================
 
-This sourcecode is derived from the thesis project 'Collaboration Planning of Stakeholders for Sustainable City Logistics Operations' available online at :http://spectrum.library.concordia.ca/973901/
+This sourcecode is derived from the thesis project 'Collaboration Planning of Stakeholders for Sustainable City Logistics Operations' available at :http://spectrum.library.concordia.ca/973901/
